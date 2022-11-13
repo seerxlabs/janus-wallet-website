@@ -2,7 +2,7 @@
   <div class="downloadBox">
     <div class="content">
       <div class="center">
-        <h1>OPENSUI<br>OPEN THE DOOR TO <span>FREEDOM</span></h1>
+        <h1>OPENSUI<br>OPEN THE GATEWAY TO <span>FREEDOM</span></h1>
         <img class="ball" src="@/assets/img/small.png" alt="">
         <img class="c1" src="@/assets/img/c1.png" alt="">
         <img class="c2" src="@/assets/img/c2.png" alt="">

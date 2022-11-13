@@ -1,7 +1,7 @@
 <template>
   <div style="height: 1490px;">
     <div class="centerMain">
-      <h2>MORE SECURE <span>MORE EFFICIENT</span></h2>
+      <h2>MORE SECURE, <span>MORE EFFICIENT</span></h2>
       <h6>Your crypto, in your hands.</h6>
       <div class="itemBox">
         <div class="item color1">
@@ -9,7 +9,7 @@
           <div>
             <b>Open source</b>
             <p>Opensui is a free, open-source software. </p>
-            <p>Anyone can see, verify and even contribute to the code.</p>
+            <p>Anyone can check, verify and even contribute to the code.</p>
           </div>
         </div>
         <div class="item color2">
