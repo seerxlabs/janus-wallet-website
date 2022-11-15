@@ -8,7 +8,7 @@
           <img src="@/assets/img/i1.png" alt="">
           <div>
             <b>Open source</b>
-            <p>Opensui is a free, open-source software. </p>
+            <p>Janus wallet is a free, open-source software. </p>
             <p>Anyone can check, verify and even contribute to the code.</p>
           </div>
         </div>
@@ -16,7 +16,7 @@
           <img src="@/assets/img/i2.png" alt="">
           <div>
             <b>End-to-end encryption</b>
-            <p>Opensui uses advanced encryption technology to store your data on</p>
+            <p>Janus wallet uses advanced encryption technology to store your data on</p>
             <p>your device, and you are the only one who can decrypt these information.</p>
           </div>
         </div>
@@ -24,7 +24,7 @@
           <img src="@/assets/img/i3.png" alt="">
           <div>
             <b>Trustless by design</b>
-            <p>Opensui software is designed in the way </p>
+            <p>Janus wallet software is designed in the way </p>
             <p>that neither the public nor developers can invade your privacy.</p>
           </div>
         </div>

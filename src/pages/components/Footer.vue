@@ -5,7 +5,7 @@
       <div>
         <a href="https://discord.com/invite/RnShbvKjU4" target="_blank"><img src="@/assets/img/p1.png" alt=""></a>
         <a href="https://medium.com/@opensui" target="_blank"><img src="@/assets/img/p2.png" alt=""></a>
-        <a href="https://github.com/seerxlabs/opensui-website" target="_blank"><img src="@/assets/img/p3.png" alt=""></a>
+        <a href="https://github.com/seerxlabs/janus-wallet-website" target="_blank"><img src="@/assets/img/p3.png" alt=""></a>
         <a href="https://twitter.com/opensui" target="_blank"><img src="@/assets/img/p4.png" alt=""></a>
       </div>
     </div>
@@ -17,7 +17,7 @@
       <div class="right">
         <ul>
           <li><b>Resources</b></li>
-          <li><a href="https://github.com/seerxlabs/opensui-website" target="_blank">Github</a></li>
+          <li><a href="https://github.com/seerxlabs/janus-wallet-website" target="_blank">Github</a></li>
         </ul>
         <ul>
           <li><b>Community</b></li>
