@@ -28,7 +28,7 @@ export default {
 .centerMain{width: 1130px;margin: auto;position: relative;padding-top: 230px;}
 .centerMain h4{text-align: right; font-size: 3.75rem;font-family: "MontserratBold"}
 .centerMain .intro{position: absolute;z-index: 3;top: 500px;RIGHT: 0;width: 502px;}
-.centerMain .intro p{line-height: 1.2; color: #FFFFFF;font-size: 2.08rem;font-family: SourceHanSansCNNormal;word-break: normal;text-align: justify}
+.centerMain .intro p{line-height: 1.2; color: #FFFFFF;font-size: 2.08rem;font-family: SourceHanSansCNNormal;word-break: normal;}
 .centerMain i{position: absolute;z-index: 2;display: block;top:338px;left: 0; width: 522px; }
 .centerMain i img{display: block;width: 100%;}
 </style>

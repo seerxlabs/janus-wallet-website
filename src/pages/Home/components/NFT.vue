@@ -69,7 +69,7 @@ export default {
 
 .domain{margin-top: 120px;border-radius: 50px;background: #297bff;height: 730px;position: relative;}
 .domain h2{z-index: 3; top: 200px; color: #FFFFFF;font-size: 3.75rem;font-family: "MontserratBold";position: absolute;width: 100%;text-align: center;}
-.domain p{ line-height: 1.2;width: 490px; text-align: justify; right: 70px; z-index: 3; top: 380px;  color: #FFFFFF;font-size: 2.08rem;font-family: "SourceHanSansCNNormal";position: absolute;}
+.domain p{ line-height: 1.2;width: 490px; right: 70px; z-index: 3; top: 380px;  color: #FFFFFF;font-size: 2.08rem;font-family: "SourceHanSansCNNormal";position: absolute;}
 .domain .search{display: flex;align-items: center;justify-content: space-between; overflow: hidden; width: 410px;position: absolute;top: 400px;left: 100px;background: url("@/assets/img/search.png") no-repeat center center / 100% 100%;height: 75px;}
 .domain .search input{ background: none; text-align: center;font-size: 2.9rem;color: #fff;border: none;width: 323px;height: 75px;line-height: 75px;font-family: "MontserratBold";font-weight: normal}
 .domain .search a{width: 80px;height: 75px;background: none;}
