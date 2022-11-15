@@ -6,7 +6,7 @@
         <li :class="currentNav === 'Security'?'on':''" @click="scrollPage('Security')"><a href="javascript:">{{$t(`Nav.Security`)}}</a></li>
 <!--        <li :class="currentNav === 'Docs'?'on':''"><a href="https://www.google.com" target="_blank">{{$t(`Nav.Docs`)}}</a></li>-->
 <!--        <li :class="currentNav === 'Developer'?'on':''"><a href="https://www.google.com" target="_blank">{{$t(`Nav.Developer`)}}</a></li>-->
-        <li :class="currentNav === 'Github'?'on':''"><a href="https://github.com/seerxlabs/opensui-website" target="_blank">{{$t(`Nav.Github`)}}</a></li>
+        <li :class="currentNav === 'Github'?'on':''"><a href="https://github.com/seerxlabs/janus-wallet-website" target="_blank">{{$t(`Nav.Github`)}}</a></li>
         <li :class="currentNav === 'Discord'?'on':''"><a href="https://discord.com/invite/RnShbvKjU4" target="_blank">{{$t(`Nav.Discord`)}}</a></li>
 <!--        <li class="download"><a href="https://www.google.com"><img src="@/assets/img/download-off.png" alt=""></a></li>-->
       </ul>

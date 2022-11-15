@@ -12,7 +12,7 @@
     <div class="links">
       <div class="left">
         <img src="@/assets/img/nav-logo.png" alt="">
-        <p>© 2022 OPENSUI.XYZ</p>
+        <p>© 2022 JANUSWALLET.XYZ</p>
       </div>
       <div class="right">
         <ul>

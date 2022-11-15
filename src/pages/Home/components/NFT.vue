@@ -25,9 +25,9 @@
       </div>
       <div class="domain">
         <h2>SUI DOMAIN NAME</h2>
-        <p>Opensui fully support Sui domain names, allowing people to receive and send tokens and NFTs with short names, which expands the adoption of Sui domain name in blockchain payment use case</p>
+        <p>Janus wallet fully support Sui domain names, allowing people to receive and send tokens and NFTs with short names, which expands the adoption of Sui domain name in blockchain payment use case</p>
         <div class="search">
-          <input type="text" value="Opensui.sui">
+          <input type="text" value="Janus.sui">
           <a href="javascript:"></a>
         </div>
         <img src="@/assets/img/pointer.png" alt="">

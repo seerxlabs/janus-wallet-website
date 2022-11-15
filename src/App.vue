@@ -39,13 +39,13 @@ export default {
 
 <style>
 @import "./assets/css/Normalize.css";
-@font-face {font-family: "MontserratBold";src: url("./assets/fonts/Montserrat-Bold-3.otf");  }
-@font-face {font-family: "MontserratMedium";src: url("./assets/fonts/Montserrat-Medium-7.otf");  }
-@font-face {font-family: "MontserratRegular";src: url("./assets/fonts/Montserrat-Regular-8.otf");  }
-@font-face {font-family: "SourceHanSansCNBold";src: url("./assets/fonts/SourceHanSansCN-Bold.otf");  }
-@font-face {font-family: "SourceHanSansCNLight";src: url("./assets/fonts/SourceHanSansCN-Light.otf");  }
-@font-face {font-family: "SourceHanSansCNMedium";src: url("./assets/fonts/SourceHanSansCN-Medium.otf");  }
-@font-face {font-family: "SourceHanSansCNNormal";src: url("./assets/fonts/SourceHanSansCN-Normal.otf");  }
+@font-face {font-display: auto;font-family: "MontserratBold";src: url("./assets/fonts/Montserrat-Bold-3.otf");  }
+@font-face {font-display: auto;font-family: "MontserratMedium";src: url("./assets/fonts/Montserrat-Medium-7.otf");  }
+@font-face {font-display: auto;font-family: "MontserratRegular";src: url("./assets/fonts/Montserrat-Regular-8.otf");  }
+@font-face {font-display: auto;font-family: "SourceHanSansCNBold";src: url("./assets/fonts/SourceHanSansCN-Bold.otf");  }
+@font-face {font-display: auto;font-family: "SourceHanSansCNLight";src: url("./assets/fonts/SourceHanSansCN-Light.otf");  }
+@font-face {font-display: auto;font-family: "SourceHanSansCNMedium";src: url("./assets/fonts/SourceHanSansCN-Medium.otf");  }
+@font-face {font-display: auto;font-family: "SourceHanSansCNNormal";src: url("./assets/fonts/SourceHanSansCN-Normal.otf");  }
 html,body{font-size: 12px;}
 a{-webkit-tap-highlight-color: rgba(255, 255, 255, 0);-webkit-user-select: none;}
 p,h1,h2,h3,h4,h5,h6{margin: 0;}
