@@ -1,2 +1,2 @@
-# opensui-website
-The website of Opensui.
+# Janus-wallet-website
+The website of Janus wallet.
