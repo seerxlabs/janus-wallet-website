@@ -1,4 +1,4 @@
-@media screen and (max-width:1080px) {
+@media screen and (max-width:1200px) {
     #topNav .navMain{padding: 1rem 2rem }
 
     .pageBanner{padding: 7.16rem 0 0;height: auto; background: url("@/assets/img/banner-bg.jpg") no-repeat left top / 180% auto;}
@@ -24,8 +24,8 @@
     .forNFT .nft{margin-bottom: 2rem;align-items: normal;}
     .forNFT .nft .left{width: 49%;height: 41rem;margin-bottom: 0}
     .forNFT .nft .left img{top: 5rem;right: -5rem;}
-    .forNFT .nft .right{ width: 49%;display: flex;align-items: normal;flex-direction: column}
-    .forNFT .nft .right .exchangeForm{width:86%;height: auto;margin: 2rem auto 0}
+    .forNFT .nft .right{ width: 49%;display: flex;align-items: normal;flex-direction: column;height: auto}
+    .forNFT .nft .right .exchangeForm{height: auto;margin: 2rem auto 0}
     .forNFT .nft .right .exchangeForm .inbox{padding: 1rem 0;position: relative;}
     .forNFT .nft .right .exchangeForm a{left: 20rem;top: 6rem;}
     .forNFT .domain{margin-top: 2rem; position: relative; height: auto; padding: 8rem 0; background:#297bff url("@/assets/img/pointer.png") no-repeat center 30% / 70% auto;}
