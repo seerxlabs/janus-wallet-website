@@ -1,0 +1,57 @@
+@media screen and (max-width:1080px) {
+    #topNav .navMain{padding: 1rem 2rem }
+
+    .pageBanner{padding: 7.16rem 0 0;height: auto; background: url("@/assets/img/banner-bg.jpg") no-repeat left top / 180% auto;}
+    .bannerCenter{padding-top: 8rem;padding-bottom: 6rem}
+    .bannerCenter h1{position: absolute;}
+    .bannerCenter h5{padding-right: 20rem;margin-top: 24rem}
+    .bannerCenter a{margin: auto;}
+    .bannerCenter i{right: 1rem; top: 16rem;z-index: 1;width: 50rem}
+
+    .forWeb3{height: auto;}
+    .forWeb3 .centerMain{padding-bottom: 22rem}
+    .forWeb3 .centerMain .intro{width: 90%;}
+    .forWeb3 .centerMain .intro p{ line-height: 1.4;}
+    .forWeb3 .centerMain .intro p:last-child{padding-right: 15%}
+
+    .forWallet{height:auto;}
+    .forWallet .centerMain{padding-bottom: 15rem;background-position: 0 bottom}
+    .forWallet .centerMain .intro{margin-top: 5rem;}
+    .forWallet .centerMain .intro p{line-height: 1.4;}
+    .forWallet .centerMain .intro p:first-child{padding-left: 60rem}
+
+    .forNFT{height: auto;}
+    .forNFT .nft{margin-bottom: 2rem;align-items: normal;}
+    .forNFT .nft .left{width: 49%;height: 41rem;margin-bottom: 0}
+    .forNFT .nft .left img{top: 5rem;right: -5rem;}
+    .forNFT .nft .right{ width: 49%;display: flex;align-items: normal;flex-direction: column}
+    .forNFT .nft .right .exchangeForm{width:86%;height: auto;margin: 2rem auto 0}
+    .forNFT .nft .right .exchangeForm .inbox{padding: 1rem 0;position: relative;}
+    .forNFT .nft .right .exchangeForm a{left: 20rem;top: 6rem;}
+    .forNFT .domain{margin-top: 2rem; position: relative; height: auto; padding: 8rem 0; background:#297bff url("@/assets/img/pointer.png") no-repeat center 30% / 70% auto;}
+    .forNFT .domain img{display: none}
+    .forNFT .domain h2{position: relative;margin:0 auto 5rem;top: 0;left: 0;}
+    .forNFT .domain p{position: relative;margin: auto;top: 0;left: 0;width: 90%;line-height: 1.4;}
+    .forNFT .domain .search{position: relative;margin:6rem auto 0;top: 0;left: 0;}
+
+    .forMore{height: auto;padding: 0 0 15rem;}
+    .forMore .itemBox .item{padding: 1.25rem 3rem;gap: 3rem;}
+
+    .downloadBox .content{height: 40rem}
+    .downloadBox .content .center h1{padding: 3rem 0}
+    .downloadBox .content .center .ball{top: 15.17rem;left: 32.5rem;}
+    .downloadBox .content .center .c1{ top: 16.5rem;left: 46.58rem;}
+    .downloadBox .content .center .c2{top: 17rem;left: 55.67rem;}
+    .downloadBox .content .center .c3{ top: 19.17rem;left: 67.17rem;}
+    .downloadBox .content .center a{margin: 17rem auto 0}
+
+    .follow h1{padding-top: 2rem;}
+    .follow div{margin-top: 3rem;}
+    .links{flex-direction: column;align-items: center;justify-content: flex-start}
+    .links .left img{margin: auto;width: 25rem}
+    .links .left p{margin-top: 6rem;font-size: 2rem;}
+    .links .right{margin-top: 8rem;width: 60%;display: flex;align-items: normal;justify-content: space-between}
+    .links .right ul li{text-align: center;padding: 2rem 0;}
+    .links .right ul li b{font-size: 2rem;}
+    .links .right ul li a{font-size: 2rem;}
+}

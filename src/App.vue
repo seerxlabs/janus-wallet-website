@@ -39,6 +39,11 @@ export default {
 
 <style>
 @import "./assets/css/Normalize.css";
+@import "./assets/css/style.css";
+@import "./assets/css/style@1200.css";
+@import "./assets/css/style@1080.css";
+@import "./assets/css/style@960.css";
+@import "./assets/css/style@720.css";
 @font-face {font-display: auto;font-family: "MontserratBold";src: url("./assets/fonts/Montserrat-Bold-3.otf");  }
 @font-face {font-display: auto;font-family: "MontserratMedium";src: url("./assets/fonts/Montserrat-Medium-7.otf");  }
 @font-face {font-display: auto;font-family: "MontserratRegular";src: url("./assets/fonts/Montserrat-Regular-8.otf");  }
@@ -47,11 +52,13 @@ export default {
 @font-face {font-display: auto;font-family: "SourceHanSansCNMedium";src: url("./assets/fonts/SourceHanSansCN-Medium.otf");  }
 @font-face {font-display: auto;font-family: "SourceHanSansCNNormal";src: url("./assets/fonts/SourceHanSansCN-Normal.otf");  }
 html,body{font-size: 12px;}
+@media screen and (max-width:1200px) {  html {font-size: 70%}  }
+@media screen and (max-width:1080px) {  html {font-size: 60%}  }
+@media screen and (max-width:960px) {  html {font-size: 50%}  }
+@media screen and (max-width:720px) {  html {font-size: 40%}  }
 a{-webkit-tap-highlight-color: rgba(255, 255, 255, 0);-webkit-user-select: none;}
 p,h1,h2,h3,h4,h5,h6{margin: 0;}
 ul{padding: 0;margin: 0;}
 #app{position: relative;overflow: hidden;font-family: Arial,monospace;background: #000000;}
-.container{padding: 0 1.33rem;}
 .initLoading{width: 100%;height: 100vh;align-items: center;flex-direction: column;display: flex;justify-content: center}
-.loadingBox{width: 100%;text-align: center;padding: 10rem 0;}
 </style>

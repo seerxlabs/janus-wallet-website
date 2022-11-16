@@ -1,0 +1,107 @@
+#topNav{ position: fixed;top: 0;left: 0;width: 100%; z-index: 1000; background:#000000;}
+#topNav .navMain{ margin: auto; padding: 1rem 4.16rem; display: flex;align-items: center;justify-content: space-between;}
+#topNav .navMain .logo{display: block;}
+#topNav .navMain .logo img{display: block;height: 5rem}
+#topNav .navMain .menu{display: flex;align-items: center;gap: 4.16rem;}
+#topNav .navMain .menu li{display: block;}
+#topNav .navMain .menu li a{color: #FFFFFF;font-size: 1.67rem;display: block;font-family: "MontserratMedium"}
+#topNav .navMain .menu li.on a{color: #4586fe;}
+#topNav .navMain .menu li.download a{}
+#topNav .navMain .menu li.download a img{display: block;height: 2.5rem;}
+
+.pageBanner{padding: 7.16rem 0 0;height: 103.75rem; overflow: hidden; width: 100%;background: url("@/assets/img/banner-bg.jpg") no-repeat center top / 100% auto;}
+.roadBg{display: block;height: 100%;margin: auto; background: url("@/assets/img/road.png") no-repeat center top / 100% auto;}
+.bannerCenter{ max-width: 1200px;  margin: auto;padding:20.83rem 2rem 0;position: relative;}
+.bannerCenter h1{z-index: 3; font-size: 5.42rem;color: #FFFFFF;font-family: "MontserratBold"}
+.bannerCenter h1 span{color: #4586fe}
+.bannerCenter h5{ margin: 4.16rem 0 7.916rem; line-height: 1.3; font-size: 2.08rem;color: #FFFFFF;font-family: "SourceHanSansCNNormal";font-weight: normal}
+.bannerCenter a{display: block;width: 18.67rem;}
+.bannerCenter a img{width: 100%;display: block;}
+.bannerCenter i{display: block;width: 62.5rem;position: absolute;z-index: 2;right: -21.67rem; top: 28.33rem;}
+.bannerCenter i img{width: 100%;display: block;}
+
+.forWeb3{height: 1020px;}
+.forWeb3 .centerMain{max-width: 1200px;margin: auto;position: relative;padding: 19.17rem 2rem 20rem;background: url("@/assets/img/web3.png") no-repeat center bottom / 100% auto}
+.forWeb3 .centerMain h4{text-align: right; font-size: 3.75rem;font-family: "MontserratBold"}
+.forWeb3 .centerMain .intro{position: relative;width: 57.83rem;margin-top: 8rem}
+.forWeb3 .centerMain .intro p{line-height: 1.2;color: #FFFFFF;font-size: 2.08rem;font-family: SourceHanSansCNNormal;word-break: normal;}
+
+.forWallet{height: 1020px;}
+.forWallet .centerMain{max-width: 1200px;margin: auto;position: relative;padding: 19.17rem 2rem 30rem;background: url("@/assets/img/mind.png") no-repeat left 60% / 55% auto}
+.forWallet .centerMain h4{text-align: right; font-size: 3.75rem;font-family: "MontserratBold"}
+.forWallet .centerMain .intro{position: relative;width: 100%;margin-top: 10rem;}
+.forWallet .centerMain .intro p{ padding-left: 58%; line-height: 1.2; color: #FFFFFF;font-size: 2.08rem;font-family: SourceHanSansCNNormal;word-break: normal;}
+
+.forNFT{height: 1673px;}
+.forNFT .centerMain{ max-width: 1200px; margin: auto;position: relative;padding: 8.33rem 2rem 0;}
+.forNFT .nft{display: flex;align-items: center;justify-content: space-between;margin-bottom: 10rem;flex-wrap: wrap}
+.forNFT .nft .left{ overflow: hidden; background: #ffe027;height: 478px;width: 653px;border-radius: 4.16rem;position: relative;}
+.forNFT .nft .left h2{color: #6d5300;font-size: 3.75rem;font-family: "MontserratBold";padding-left: 3.75rem;padding-top: 3.75rem;}
+.forNFT .nft .left p{ margin-top: 1.67rem; line-height: 1.2; color: #6d5300;font-size: 2.08rem;font-family: "SourceHanSansCNNormal";padding-left: 3.75rem;}
+.forNFT .nft .left img{display: block;position: absolute;right: -2.5rem;bottom: -20.83rem;width: 44.17rem;}
+.forNFT .nft .right{background: #32424a;height: 478px;width: 500px;border-radius: 4.16rem;}
+.forNFT .nft .right h2{color: #FFFFFF;font-size: 3.75rem;font-family: "MontserratBold";padding-left: 3.75rem;padding-top: 3.75rem;}
+.forNFT .nft .right .intro{ margin-top: 1.67rem; line-height: 1.2; color: #FFFFFF;font-size: 2.08rem;font-family: "SourceHanSansCNNormal";padding-left: 3.75rem;}
+.forNFT .nft .right .exchangeForm{position: relative; width: 32.5rem; margin: 4.16rem auto 0;}
+.forNFT .nft .right .exchangeForm .inbox{background: #222e33;border-radius: 4.16rem;}
+.forNFT .nft .right .exchangeForm label{text-align: center;width: 40%;font-size: 1.5rem;color: #ffffff;font-family: "SourceHanSansCNNormal";}
+.forNFT .nft .right .exchangeForm p{ width: 9.17rem; background: #141c1e;border-radius: 4.16rem; padding: 0.83rem; display: flex;align-items: center;gap:1.25rem}
+.forNFT .nft .right .exchangeForm p img{width: 2.75rem;height: 2.75rem;}
+.forNFT .nft .right .exchangeForm p span{font-size: 1.5rem;color: #ffffff;font-family: "SourceHanSansCNNormal";}
+.forNFT .nft .right .exchangeForm .pay{padding:1.25rem 1.67rem; border-bottom: #32424a 1px solid; display: flex;align-items: center;justify-content: space-between;}
+.forNFT .nft .right .exchangeForm .receive{padding:1.25rem 1.67rem; display: flex;align-items: center;justify-content: space-between;}
+.forNFT .nft .right .exchangeForm a{display: block;width: 3.33rem;position: absolute; left: 13.33rem;top: 5.17rem;}
+.forNFT .nft .right .exchangeForm a img{width: 100%;display: block;}
+
+.forNFT .domain{margin-top: 10rem;border-radius: 4.16rem;background: #297bff;height: 730px;position: relative;}
+.forNFT .domain h2{z-index: 3; top: 16.67rem; color: #FFFFFF;font-size: 3.75rem;font-family: "MontserratBold";position: absolute;width: 100%;text-align: center;}
+.forNFT .domain p{ line-height: 1.2;width: 40.83rem; right: 5.83rem; z-index: 3; top: 31.67rem;  color: #FFFFFF;font-size: 2.08rem;font-family: "SourceHanSansCNNormal";position: absolute;}
+.forNFT .domain .search{display: flex;align-items: center;justify-content: space-between; overflow: hidden; width: 34.17rem;position: absolute;top: 33.33rem;left: 8.33rem;background: url("@/assets/img/search.png") no-repeat center center / 100% 100%;height: 6.25rem;}
+.forNFT .domain .search input{ background: none; text-align: center;font-size: 2.9rem;color: #fff;border: none;width: 26.92rem;height: 6.25rem;line-height: 6.25rem;font-family: "MontserratBold";font-weight: normal}
+.forNFT .domain .search a{width: 6.67rem;height: 6.25rem;background: none;}
+.forNFT .domain img{position: absolute;display: block;width: 31.67rem;top: 8.92rem;right: 9.58rem;z-index: 1;}
+
+.forMore{height: 1490px;}
+.forMore .centerMain{max-width: 1200px;margin: auto;position: relative;padding: 16.67rem 2rem 0;}
+.forMore .centerMain h2{text-align: center; font-size: 3.75rem;font-family: "MontserratBold";color: white}
+.forMore .centerMain h2 span{color: #297bff;}
+.forMore .centerMain h6{text-align: center;margin-top: 1.67rem; font-size: 2.08rem;font-family: "SourceHanSansCNNormal";color: white;font-weight: normal;}
+.forMore .itemBox{ margin-top: 10rem; display: flex;align-items:normal;gap: 2.08rem;flex-direction: column}
+.forMore .itemBox .item{gap: 4.16rem; padding: 1.25rem 4.58rem; border-radius: 4.16rem;display: flex;align-items: center;}
+.forMore .itemBox .item img{display: block;width: 6.67rem;height: 6.67rem;}
+.forMore .itemBox .item div{}
+.forMore .itemBox .item div b{font-size: 2.5rem;color: #4586fe;font-family: "SourceHanSansCNBold";display: block;margin-bottom: 0.9rem;}
+.forMore .itemBox .item div p{ line-height: 1.2; font-size: 2.08rem;color: #ffffff;font-family: "SourceHanSansCNNormal";}
+.forMore .color1{background: #222e33;}
+.forMore .color2{background: #32424a;}
+
+.downloadBox{position: relative;background: url("@/assets/img/download-bg.jpg") no-repeat center top / cover}
+.downloadBox .content{max-width:1200px;height: 66.67rem; position: relative;margin: auto}
+.downloadBox .content .center{margin: auto;position: relative;width:100%;height: 100%;}
+.downloadBox .content .center h1{width: 100%; font-size: 3.75rem;font-family: "MontserratBold";color: #fff;text-align: center;padding: 10rem 0;}
+.downloadBox .content .center h1 span{color: #297bff;}
+.downloadBox .content .center .ball{position: absolute;width: 19.16rem; top: 27.17rem;left: 27.5rem;}
+.downloadBox .content .center .c1{position: absolute;width: 8.33rem; top: 27.17rem;left: 41.58rem;}
+.downloadBox .content .center .c2{position: absolute;width: 10rem; top: 28.83rem;left: 56.67rem;}
+.downloadBox .content .center .c3{position: absolute;width: 10.83rem; top: 32.17rem;left: 79.17rem;}
+.downloadBox .content .center a{position: relative;display: block;width: 18.67rem;margin: 25rem auto 0}
+.downloadBox .content .center a img{display: block;width: 100%;}
+
+.footer{max-width: 1200px;margin: auto;position: relative;padding: 13.33rem 2rem 6.67rem;}
+.follow{height: 28.33rem;background: url("@/assets/img/follow.png") no-repeat center bottom / 100% auto;padding-top: 2rem}
+.follow h1{font-size: 3.75rem;text-align: center;font-family: "MontserratBold";color: #ffffff;padding-top: 3.6rem;}
+.follow div{gap:3.75rem; display: flex;align-items: center;justify-content: center;margin-top: 2rem;margin-bottom: 8.33rem;}
+.follow div a{display: block;width: 6.67rem;}
+.follow div a img{display: block;width: 100%;}
+.links{padding: 10rem 8.33rem 0;display: flex;align-items: normal;justify-content: space-between;flex-wrap: wrap}
+.links .left{text-align: center;}
+.links .left img{display: block;width: 15.83rem;margin-bottom: 1.67rem;}
+.links .left p{color: #727171;font-size: 1.25rem;font-family: "SourceHanSansCNLight";}
+.links .right{display: flex;align-items: normal;justify-content: flex-end;gap: 6.67rem;}
+.links .right ul{list-style: none;padding: 0;}
+.links .right ul li{display: block;padding: 0.9rem 0;}
+.links .right ul li b{font-size: 1.5rem;font-family: "SourceHanSansCNMedium";color: #ffffff;}
+.links .right ul li a{font-size: 1.25rem;font-family: "SourceHanSansCNLight";color: #727171;}
+.copy{display: flex;align-items: center;justify-content: center;gap: 0.9rem;padding-top: 10.2rem;}
+.copy p{font-size: 1.25rem;color: #fff;padding-top: 0.9rem;}
+.copy img{display: block;height: 2.5rem;}

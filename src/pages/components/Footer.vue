@@ -43,22 +43,5 @@ export default {
 }
 </script>
 <style scoped>
-.footer{width: 1130px;margin: auto;position: relative;padding-top: 160px;padding-bottom: 80px;}
-.follow{height: 340px;background: url("@/assets/img/follow.png") no-repeat center center / 100% 100%;}
-.follow h1{font-size: 3.75rem;text-align: center;font-family: "MontserratBold";color: #ffffff;padding-top: 50px;}
-.follow div{gap:45px; display: flex;align-items: center;justify-content: center;margin-top: 20px;margin-bottom: 100px;}
-.follow div a{display: block;width: 80px;}
-.follow div a img{display: block;width: 100%;}
-.links{padding: 120px 100px 0;display: flex;align-items: normal;justify-content: space-between;}
-.links .left{text-align: center;}
-.links .left img{display: block;width: 190px;margin-bottom: 20px;}
-.links .left p{color: #727171;font-size: 1.25rem;font-family: "SourceHanSansCNLight";}
-.links .right{display: flex;align-items: normal;justify-content: flex-end;gap: 80px;}
-.links .right ul{list-style: none;padding: 0;}
-.links .right ul li{display: block;padding: 10px 0;}
-.links .right ul li b{font-size: 1.5rem;font-family: "SourceHanSansCNMedium";color: #ffffff;}
-.links .right ul li a{font-size: 1.25rem;font-family: "SourceHanSansCNLight";color: #727171;}
-.copy{display: flex;align-items: center;justify-content: center;gap: 10px;padding-top: 130px;}
-.copy p{font-size: 1.25rem;color: #fff;padding-top: 10px;}
-.copy img{display: block;height: 30px;}
+
 </style>
